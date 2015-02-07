@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-11-11
-img: feb07.png
+date: 2014-11-12
+img: feb08.png
 alt: image-alt
 project-date: February 2015
 client: ICCCET
 category: IC-MEET
-description: DAY 1 - FEB 07 2015
+description: DAY 1 - FEB 08 2015
 
 ---
