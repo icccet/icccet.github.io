@@ -283,14 +283,15 @@ hr {
   background-position: 15px;
 }
 .logo-wrapper a {
-  display: inline-block;
-  overflow: hidden;
-  padding-left: 105px;
-  line-height: 100px;
-  text-transform: uppercase;
-  color: #ec523f;
-  font-size:17px;
-  font-weight: 700;
+	display: inline-block;
+	overflow: hidden;
+	padding-left: 105px;
+	line-height: 100px;
+	text-transform: uppercase;
+	color: #ec523f;
+	font-size: 17px;
+	font-weight: 700;
+	text-align: right;
 }
 
 .main-menu ul li {
