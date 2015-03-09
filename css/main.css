@@ -16,7 +16,7 @@
    ========================================================================== */
 
 #loader-wrapper {
-	background:url(../images/allah3.jpg);
+	background:url(../images/allah3.jpg) !important;
 	position: fixed;
     top: 0;
     left: 0;
@@ -25,7 +25,7 @@
     z-index: 150;
 }
 #loader {
-	background: url(../images/logo.png) no-repeat center;
+	background: url(../images/logo.png) no-repeat center !important;
     display: block;
     position: relative;
     left: 50%;
@@ -113,13 +113,13 @@
     }
 
     #loader-wrapper .loader-section.section-left {
-		background:url(../images/allah.jpg) no-repeat right top;
+		background:url(../images/allah.jpg) no-repeat right top !important;
 		background-size: 497px 847px;
 	     
     }
 
     #loader-wrapper .loader-section.section-right {
-		background:url(../images/allah2.jpg) no-repeat;
+		background:url(../images/allah2.jpg) no-repeat !important;
         right: -1.87%;
 		background-size: 497px 847px;
     }
